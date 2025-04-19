@@ -1,6 +1,8 @@
 # Aurian Numbers
 
 **A Novel Digit-Based Numerical Identity**
+Discover the Aurian Number — A new concept in digit-based numerical identity, developed by Anees Shaikh.
+LINK: https://figshare.com/articles/dataset/_b_Aurian_Number_b_pdf/28827293?file=53800025
 
 ---
 
